@@ -1,2 +1,3 @@
 # Banco-de-dados
-exercicios da facul banco de dados
+exercicios de banco de dados da facul
+
